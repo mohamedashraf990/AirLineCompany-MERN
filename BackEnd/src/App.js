@@ -4,7 +4,7 @@ console.log("akheran");
 const mongoose = require('mongoose');
 const nodemailer = require('nodemailer');
 
-// THIS IS WRONG NEVER DO THAT !! Only for the task we put the DB Link here!! NEVER DO THAAAT AGAIN !!
+
 const MongoURI = "mongodb+srv://mariamheshamaly:mrrobot@cluster0.w6ioz.mongodb.net/Cluster0?retryWrites=true&w=majority";
 const router = express.Router();
 require('dotenv').config();
