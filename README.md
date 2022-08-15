@@ -90,7 +90,7 @@ Such websites include EgyptAir.com, Emirates.com, Lufthansa.com and AirCanada.co
 - React-scripts
 - Stripe
 - nodemailer
-- Test
+- Jest
 
 
 
